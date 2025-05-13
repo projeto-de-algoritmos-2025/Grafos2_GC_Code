@@ -74,9 +74,9 @@ Este projeto busca reforçar conceitos teóricos de grafos de maneira prática e
 
 Neste vídeo, apresentamos o trabalho desenvolvido, abordando os algoritmos do conteúdo da disciplina.
 
-[Genilson Dificil]()
+[Genilson Dificil](https://www.youtube.com/watch?v=obyUrAIdvo4)
 
-[Genilson Medio]()
+[Genilson Medio](https://www.youtube.com/watch?v=Jf2elK-1MvQ)
 
 [Carlos Dificil]()
 
