@@ -78,9 +78,9 @@ Neste vídeo, apresentamos o trabalho desenvolvido, abordando os algoritmos do c
 
 [Genilson Medio](https://www.youtube.com/watch?v=Jf2elK-1MvQ)
 
-[Carlos Dificil]()
+[Carlos Dificil](https://www.youtube.com/watch?v=m886-A7g4vA)
 
-[Carlos Medio]()
+[Carlos Medio](https://www.youtube.com/watch?v=jNC2zmDESBk)
 
 ---
 
