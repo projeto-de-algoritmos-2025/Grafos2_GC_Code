@@ -72,7 +72,7 @@ Este projeto busca reforçar conceitos teóricos de grafos de maneira prática e
 <p align="center">Figura 5 - Difícil Problem</p>
 
 <p align="center">
-  <img src="Arquivos/DificilProblem2.jpg" alt="Difícil Problem" width="500"/>
+  <img src="Arquivos/Dificilproblem2.png" alt="Difícil Problem" width="500"/>
 </p>
 
 <p align="center" style="font-size: 14px;">
@@ -84,7 +84,7 @@ Este projeto busca reforçar conceitos teóricos de grafos de maneira prática e
 <p align="center">Figura 6 - Difícil Accepted</p>
 
 <p align="center">
-  <img src="Arquivos/DificilAccepted2.jpg" alt="Difícil Accepted" width="500"/>
+  <img src="Arquivos/Dificilaccepted2.png" alt="Difícil Accepted" width="500"/>
 </p>
 
 <p align="center" style="font-size: 14px;">
@@ -94,7 +94,7 @@ Este projeto busca reforçar conceitos teóricos de grafos de maneira prática e
 <p align="center">Figura 7 - Médio Problem</p>
 
 <p align="center">
-  <img src="Arquivos/MedioProblem2.jpg" alt="Médio Problem" width="500"/>
+  <img src="Arquivos/Medioproblem2.png" alt="Médio Problem" width="500"/>
 </p>
 
 <p align="center" style="font-size: 14px;">
@@ -106,7 +106,7 @@ Este projeto busca reforçar conceitos teóricos de grafos de maneira prática e
 <p align="center">Figura 8 - Médio Accepted</p>
 
 <p align="center">
-  <img src="Arquivos/MedioAccepted2.jpg" alt="Médio Accepted" width="500"/>
+  <img src="Arquivos/Medioaccepted2.png" alt="Médio Accepted" width="500"/>
 </p>
 
 <p align="center" style="font-size: 14px;">
