@@ -23,13 +23,64 @@ Este projeto busca reforçar conceitos teóricos de grafos de maneira prática e
 
 ## 🖼️ Screenshots
 
+<p align="center">Figura 1 - Difícil Problem</p>
+
+<p align="center">
+  <img src="Arquivos/DificilProblem.jpg" alt="Difícil Problem" width="500"/>
+</p>
+
+<p align="center" style="font-size: 14px;">
+  Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+</p>
+
 ---
+
+<p align="center">Figura 2 - Difícil Accepted</p>
+
+<p align="center">
+  <img src="Arquivos/DificilAccepted.jpg" alt="Difícil Accepted" width="500"/>
+</p>
+
+<p align="center" style="font-size: 14px;">
+  Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+</p>
+
+<p align="center">Figura 3 - Médio Problem</p>
+
+<p align="center">
+  <img src="Arquivos/MedioProblem.jpg" alt="Médio Problem" width="500"/>
+</p>
+
+<p align="center" style="font-size: 14px;">
+  Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+</p>
+
+---
+
+<p align="center">Figura 4 - Médio Accepted</p>
+
+<p align="center">
+  <img src="Arquivos/MedioAccepted.jpg" alt="Médio Accepted" width="500"/>
+</p>
+
+<p align="center" style="font-size: 14px;">
+  Autor: <a href="https://github.com/GenilsonJrs" target="_blank">Genilson Silva</a>
+</p>
+
+---
+
 
 ### 🎥 Vídeo de Apresentação
 
 Neste vídeo, apresentamos o trabalho desenvolvido, abordando os algoritmos do conteúdo da disciplina.
 
-[Assista no Youtube]()
+[Genilson Dificil]()
+
+[Genilson Medio]()
+
+[Carlos Dificil]()
+
+[Carlos Medio]()
 
 ---
 
@@ -62,7 +113,10 @@ cd Grafos2_GC_Code
 
 ## ▶️ Uso
 
----
+Entre o LeetCode e teste o código a partir de lá. Verá a submissão e o funcionamento do algoritmo melhor.
+
+[LeetCode](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiawrvJsp-NAxVQDbkGHftsHnUQFnoECAsQAQ&url=https%3A%2F%2Fleetcode.com%2F&usg=AOvVaw1wTHj-6jLn7cx7306Wwc9S&opi=89978449)
+
 
 ## 🧠 Outros
 
